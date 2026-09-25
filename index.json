@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "general-simple-guided-prayer",
+      "type": "guided",
+      "path": "General-Simple-Guided-Prayer.prayer.zip",
+      "name": "General Simple Guided Prayer",
+      "description": "A gentle, ecumenical prayer session: pause, confess, give thanks, listen, intercede, and close with the Lord's Prayer.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["guided", "prayer", "ecumenical", "simple", "beginner"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "peace-and-rest",
+      "type": "guided",
+      "path": "Peace-And-Rest.prayer.zip",
+      "name": "Peace and Rest",
+      "description": "A guided session to release anxiety, receive God's peace, and rest in stillness before sleep or a stressful moment.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["guided", "prayer", "peace", "rest", "anxiety", "sleep"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "catholic-guided-prayer",
+      "type": "guided",
+      "path": "Catholic-Guided-Prayer.prayer.zip",
+      "name": "Catholic Guided Prayer",
+      "description": "Sign of the Cross, Our Father, Hail Mary, Glory Be, brief examen, and intercession.",
+      "author": "Theodia",
+      "traditions": ["Catholic"],
+      "tags": ["guided", "prayer", "catholic", "rosary", "examen"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "protestant-guided-prayer",
+      "type": "guided",
+      "path": "Protestant-Guided-Prayer.prayer.zip",
+      "name": "Protestant Guided Prayer",
+      "description": "Scripture-centered session with confession, thanksgiving, listening, intercession, the Lord's Prayer, and a doxology.",
+      "author": "Theodia",
+      "traditions": ["Protestant"],
+      "tags": ["guided", "prayer", "protestant", "scripture", "doxology"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "orthodox-guided-prayer",
+      "type": "guided",
+      "path": "Orthodox-Guided-Prayer.prayer.zip",
+      "name": "Orthodox Guided Prayer",
+      "description": "Trisagion, Jesus Prayer, stillness before icons in the heart, intercession, and blessing.",
+      "author": "Theodia",
+      "traditions": ["Orthodox"],
+      "tags": ["guided", "prayer", "orthodox", "trisagion", "jesus-prayer", "icon"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "jewish-guided-prayer",
+      "type": "guided",
+      "path": "Jewish-Guided-Prayer.prayer.zip",
+      "name": "Jewish Guided Prayer",
+      "description": "Shema, blessings, reflection on the day, and personal supplication.",
+      "author": "Theodia",
+      "traditions": ["Jewish"],
+      "tags": ["guided", "prayer", "jewish", "shema", "blessing"],
+      "version": "1.0.0"
+    }
+  ]
+}
