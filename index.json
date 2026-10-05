@@ -78,6 +78,17 @@
       "traditions": ["General"],
       "tags": ["guided", "prayer", "faith", "trust", "habakkuk", "meditation", "encouragement", "ecumenical"],
       "version": "1.0.0"
+    },
+    {
+      "id": "go-make-disciples",
+      "type": "guided",
+      "path": "Go-Make-Disciples.prayer.zip",
+      "name": "Go and Make Disciples",
+      "description": "A guided prayer on Matthew 28:18-20 and Luke 15:7 — an encouraging call to the Great Commission, the joy of sharing faith, and courage to step into the world with Christ.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["guided", "prayer", "great-commission", "discipleship", "matthew", "luke", "evangelism", "courage", "mission", "ecumenical"],
+      "version": "1.0.0"
     }
   ]
 }
