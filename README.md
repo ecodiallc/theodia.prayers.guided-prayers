@@ -12,6 +12,7 @@ A dedicated repository of downloadable guided prayer sessions for the Theodia ap
 | `Jewish-Guided-Prayer.prayer.zip` | Jewish | Shema, blessings, reflection on the day, and personal supplication. |
 | `Faith-In-Gods-Faithfulness.prayer.zip` | General | A meditation on Habakkuk 2:4 with related verses, inviting trust in God's faithfulness across traditions. |
 | `Go-Make-Disciples.prayer.zip` | General | A Great Commission prayer on Matthew 28:18-20 and Luke 15:7, encouraging courage and mission. |
+| `Pray-For-Leaders.prayer.zip` | General | A guided prayer for leaders in every sphere, grounded in 1 Timothy 2:1-2 — asking for wisdom, peace, and dignity. |
 
 ## Format
 

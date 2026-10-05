@@ -89,6 +89,17 @@
       "traditions": ["General"],
       "tags": ["guided", "prayer", "great-commission", "discipleship", "matthew", "luke", "evangelism", "courage", "mission", "ecumenical"],
       "version": "1.0.0"
+    },
+    {
+      "id": "pray-for-leaders",
+      "type": "guided",
+      "path": "Pray-For-Leaders.prayer.zip",
+      "name": "Pray for Leaders",
+      "description": "A guided prayer for leaders in every sphere of life, grounded in 1 Timothy 2:1-2 — asking for peace, dignity, and wisdom for those in authority.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["guided", "prayer", "intercession", "leaders", "authority", "1-timothy", "peace", "civic", "ecumenical"],
+      "version": "1.0.0"
     }
   ]
 }
