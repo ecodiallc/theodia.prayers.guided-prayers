@@ -18,6 +18,7 @@ A dedicated repository of downloadable guided prayer sessions for the Theodia ap
 | `Create-In-Me-A-Clean-Heart.prayer.zip` | General | A guided prayer for removing hidden sins and inner renewal, rooted in Psalm 51:10, with Psalm 139, 1 John 1:9, and Ezekiel 36:26. |
 | `Love-And-Forgive-Our-Enemies.prayer.zip` | General | A guided prayer for loving and forgiving enemies, grounded in Matthew 5:44, with Romans 12:21 and Luke 6:27-28. |
 | `Confess-And-Be-Forgiven.prayer.zip` | General | A guided prayer of honest confession and receiving God's pardon, grounded in 1 John 1:9 and Psalm 32:5. |
+| `Love-God-And-Neighbor.prayer.zip` | General | A guided prayer on the two greatest commandments, with heart, soul, mind, and strength offered in love. |
 
 ## Format
 

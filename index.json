@@ -155,6 +155,17 @@
       "traditions": ["General"],
       "tags": ["confession", "forgiveness", "mercy"],
       "version": "1.0.0"
+    },
+    {
+      "id": "love-god-and-neighbor",
+      "type": "guided",
+      "path": "Love-God-And-Neighbor.prayer.zip",
+      "name": "Love God and Love Your Neighbor",
+      "description": "A guided prayer on the two greatest commandments — love God with all your heart, soul, mind, and strength, and love your neighbor as yourself.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["love", "greatest-commandments", "daily"],
+      "version": "1.0.0"
     }
   ]
 }
