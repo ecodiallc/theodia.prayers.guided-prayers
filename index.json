@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "updatedAt": "2026-10-05T12:50:00.000Z",
   "packages": [
     {
       "id": "general-simple-guided-prayer",
@@ -10,7 +10,7 @@
       "description": "A gentle, ecumenical prayer session: pause, confess, give thanks, listen, intercede, and close with the Lord's Prayer.",
       "author": "Theodia",
       "traditions": ["General"],
-      "tags": ["guided", "prayer", "ecumenical", "simple", "beginner"],
+      "tags": ["general", "daily", "beginner"],
       "version": "1.0.0"
     },
     {
@@ -21,7 +21,7 @@
       "description": "A guided session to release anxiety, receive God's peace, and rest in stillness before sleep or a stressful moment.",
       "author": "Theodia",
       "traditions": ["General"],
-      "tags": ["guided", "prayer", "peace", "rest", "anxiety", "sleep"],
+      "tags": ["peace", "rest", "anxiety"],
       "version": "1.0.0"
     },
     {
@@ -32,7 +32,7 @@
       "description": "Sign of the Cross, Our Father, Hail Mary, Glory Be, brief examen, and intercession.",
       "author": "Theodia",
       "traditions": ["Catholic"],
-      "tags": ["guided", "prayer", "catholic", "rosary", "examen"],
+      "tags": ["catholic", "daily", "devotion"],
       "version": "1.0.0"
     },
     {
@@ -43,7 +43,7 @@
       "description": "Scripture-centered session with confession, thanksgiving, listening, intercession, the Lord's Prayer, and a doxology.",
       "author": "Theodia",
       "traditions": ["Protestant"],
-      "tags": ["guided", "prayer", "protestant", "scripture", "doxology"],
+      "tags": ["protestant", "scripture", "daily"],
       "version": "1.0.0"
     },
     {
@@ -54,7 +54,7 @@
       "description": "Trisagion, Jesus Prayer, stillness before icons in the heart, intercession, and blessing.",
       "author": "Theodia",
       "traditions": ["Orthodox"],
-      "tags": ["guided", "prayer", "orthodox", "trisagion", "jesus-prayer", "icon"],
+      "tags": ["orthodox", "stillness", "mercy"],
       "version": "1.0.0"
     },
     {
@@ -65,7 +65,7 @@
       "description": "Shema, blessings, reflection on the day, and personal supplication.",
       "author": "Theodia",
       "traditions": ["Jewish"],
-      "tags": ["guided", "prayer", "jewish", "shema", "blessing"],
+      "tags": ["jewish", "daily", "blessing"],
       "version": "1.0.0"
     },
     {
@@ -76,7 +76,7 @@
       "description": "A guided meditation on Habakkuk 2:4 — the just live by faith — with verses that encourage trust in God's steadfast love and faithfulness.",
       "author": "Theodia",
       "traditions": ["General"],
-      "tags": ["guided", "prayer", "faith", "trust", "habakkuk", "meditation", "encouragement", "ecumenical"],
+      "tags": ["faith", "habakkuk", "encouragement"],
       "version": "1.0.0"
     },
     {
@@ -87,7 +87,7 @@
       "description": "A guided prayer on Matthew 28:18-20 and Luke 15:7 — an encouraging call to the Great Commission, the joy of sharing faith, and courage to step into the world with Christ.",
       "author": "Theodia",
       "traditions": ["General"],
-      "tags": ["guided", "prayer", "great-commission", "discipleship", "matthew", "luke", "evangelism", "courage", "mission", "ecumenical"],
+      "tags": ["mission", "great-commission", "courage"],
       "version": "1.0.0"
     },
     {
@@ -98,7 +98,7 @@
       "description": "A guided prayer for leaders in every sphere of life, grounded in 1 Timothy 2:1-2 — asking for peace, dignity, and wisdom for those in authority.",
       "author": "Theodia",
       "traditions": ["General"],
-      "tags": ["guided", "prayer", "intercession", "leaders", "authority", "1-timothy", "peace", "civic", "ecumenical"],
+      "tags": ["intercession", "leaders", "peace"],
       "version": "1.0.0"
     },
     {
@@ -109,7 +109,7 @@
       "description": "A guided prayer for Jerusalem and all its people, rooted in Psalm 122:6 — asking for peace, security, and flourishing for the city sacred to three faiths.",
       "author": "Theodia",
       "traditions": ["General"],
-      "tags": ["guided", "prayer", "jerusalem", "psalm-122", "peace", "intercession", "shalom", "ecumenical", "interfaith"],
+      "tags": ["jerusalem", "peace", "intercession"],
       "version": "1.0.0"
     },
     {
@@ -120,7 +120,7 @@
       "description": "A guided prayer for Christians facing persecution around the world, grounded in Hebrews 13:3 and Matthew 5:44, with promises of courage from Isaiah 41:10 and Romans 8:38-39.",
       "author": "Theodia",
       "traditions": ["General"],
-      "tags": ["guided", "prayer", "persecution", "persecuted-church", "intercession", "solidarity", "courage", "hebrews", "matthew", "isaiah", "romans", "ecumenical"],
+      "tags": ["persecuted-church", "intercession", "courage"],
       "version": "1.0.0"
     },
     {
@@ -131,7 +131,7 @@
       "description": "A guided prayer for the removal of hidden sins and the renewal of the inner life, rooted in Psalm 51:10 — asking God to create a clean heart and a steadfast spirit.",
       "author": "Theodia",
       "traditions": ["General"],
-      "tags": ["guided", "prayer", "confession", "repentance", "cleansing", "psalm-51", "hidden-sin", "renewal", "ecumenical"],
+      "tags": ["confession", "psalm-51", "renewal"],
       "version": "1.0.0"
     }
   ]
