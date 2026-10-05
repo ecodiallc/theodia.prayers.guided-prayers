@@ -133,6 +133,17 @@
       "traditions": ["General"],
       "tags": ["confession", "psalm-51", "renewal"],
       "version": "1.0.0"
+    },
+    {
+      "id": "love-and-forgive-our-enemies",
+      "type": "guided",
+      "path": "Love-And-Forgive-Our-Enemies.prayer.zip",
+      "name": "Love and Forgive Our Enemies",
+      "description": "A guided prayer for the hard work of loving and forgiving enemies, grounded in Matthew 5:44 — pray for those who persecute you — and the freedom that forgiveness brings.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["forgiveness", "enemies", "love"],
+      "version": "1.0.0"
     }
   ]
 }

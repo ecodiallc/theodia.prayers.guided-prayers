@@ -16,6 +16,7 @@ A dedicated repository of downloadable guided prayer sessions for the Theodia ap
 | `Pray-For-The-Peace-Of-Jerusalem.prayer.zip` | General | A guided prayer for Jerusalem and all its people, rooted in Psalm 122:6, with prayers for shalom across traditions. |
 | `Pray-For-The-Persecuted-Church.prayer.zip` | General | A guided prayer for Christians facing persecution, grounded in Hebrews 13:3 and Matthew 5:44, with courage from Isaiah 41:10 and Romans 8:38-39. |
 | `Create-In-Me-A-Clean-Heart.prayer.zip` | General | A guided prayer for removing hidden sins and inner renewal, rooted in Psalm 51:10, with Psalm 139, 1 John 1:9, and Ezekiel 36:26. |
+| `Love-And-Forgive-Our-Enemies.prayer.zip` | General | A guided prayer for loving and forgiving enemies, grounded in Matthew 5:44, with Romans 12:21 and Luke 6:27-28. |
 
 ## Format
 
