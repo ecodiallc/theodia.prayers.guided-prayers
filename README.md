@@ -10,6 +10,7 @@ A dedicated repository of downloadable guided prayer sessions for the Theodia ap
 | `Protestant-Guided-Prayer.prayer.zip` | Protestant | Scripture-centered session with confession, thanksgiving, listening, intercession, the Lord's Prayer, and a doxology. |
 | `Orthodox-Guided-Prayer.prayer.zip` | Orthodox | Trisagion, Jesus Prayer, stillness before icons in the heart, intercession, and blessing. |
 | `Jewish-Guided-Prayer.prayer.zip` | Jewish | Shema, blessings, reflection on the day, and personal supplication. |
+| `Faith-In-Gods-Faithfulness.prayer.zip` | General | A meditation on Habakkuk 2:4 with related verses, inviting trust in God's faithfulness across traditions. |
 
 ## Format
 

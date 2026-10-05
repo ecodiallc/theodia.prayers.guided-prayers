@@ -67,6 +67,17 @@
       "traditions": ["Jewish"],
       "tags": ["guided", "prayer", "jewish", "shema", "blessing"],
       "version": "1.0.0"
+    },
+    {
+      "id": "faith-in-gods-faithfulness",
+      "type": "guided",
+      "path": "Faith-In-Gods-Faithfulness.prayer.zip",
+      "name": "Faith in God's Faithfulness",
+      "description": "A guided meditation on Habakkuk 2:4 — the just live by faith — with verses that encourage trust in God's steadfast love and faithfulness.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["guided", "prayer", "faith", "trust", "habakkuk", "meditation", "encouragement", "ecumenical"],
+      "version": "1.0.0"
     }
   ]
 }
