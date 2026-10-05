@@ -100,6 +100,17 @@
       "traditions": ["General"],
       "tags": ["guided", "prayer", "intercession", "leaders", "authority", "1-timothy", "peace", "civic", "ecumenical"],
       "version": "1.0.0"
+    },
+    {
+      "id": "pray-for-the-peace-of-jerusalem",
+      "type": "guided",
+      "path": "Pray-For-The-Peace-Of-Jerusalem.prayer.zip",
+      "name": "Pray for the Peace of Jerusalem",
+      "description": "A guided prayer for Jerusalem and all its people, rooted in Psalm 122:6 — asking for peace, security, and flourishing for the city sacred to three faiths.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["guided", "prayer", "jerusalem", "psalm-122", "peace", "intercession", "shalom", "ecumenical", "interfaith"],
+      "version": "1.0.0"
     }
   ]
 }
