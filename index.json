@@ -122,6 +122,17 @@
       "traditions": ["General"],
       "tags": ["guided", "prayer", "persecution", "persecuted-church", "intercession", "solidarity", "courage", "hebrews", "matthew", "isaiah", "romans", "ecumenical"],
       "version": "1.0.0"
+    },
+    {
+      "id": "create-in-me-a-clean-heart",
+      "type": "guided",
+      "path": "Create-In-Me-A-Clean-Heart.prayer.zip",
+      "name": "Create in Me a Clean Heart",
+      "description": "A guided prayer for the removal of hidden sins and the renewal of the inner life, rooted in Psalm 51:10 — asking God to create a clean heart and a steadfast spirit.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["guided", "prayer", "confession", "repentance", "cleansing", "psalm-51", "hidden-sin", "renewal", "ecumenical"],
+      "version": "1.0.0"
     }
   ]
 }
