@@ -144,6 +144,17 @@
       "traditions": ["General"],
       "tags": ["forgiveness", "enemies", "love"],
       "version": "1.0.0"
+    },
+    {
+      "id": "confess-and-be-forgiven",
+      "type": "guided",
+      "path": "Confess-And-Be-Forgiven.prayer.zip",
+      "name": "Confess and Be Forgiven",
+      "description": "A guided prayer of honest confession, receiving God's pardon and forgiveness, grounded in 1 John 1:9 and Psalm 32:5.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["confession", "forgiveness", "mercy"],
+      "version": "1.0.0"
     }
   ]
 }
