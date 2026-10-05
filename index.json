@@ -111,6 +111,17 @@
       "traditions": ["General"],
       "tags": ["guided", "prayer", "jerusalem", "psalm-122", "peace", "intercession", "shalom", "ecumenical", "interfaith"],
       "version": "1.0.0"
+    },
+    {
+      "id": "pray-for-the-persecuted-church",
+      "type": "guided",
+      "path": "Pray-For-The-Persecuted-Church.prayer.zip",
+      "name": "Pray for the Persecuted Church",
+      "description": "A guided prayer for Christians facing persecution around the world, grounded in Hebrews 13:3 and Matthew 5:44, with promises of courage from Isaiah 41:10 and Romans 8:38-39.",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["guided", "prayer", "persecution", "persecuted-church", "intercession", "solidarity", "courage", "hebrews", "matthew", "isaiah", "romans", "ecumenical"],
+      "version": "1.0.0"
     }
   ]
 }

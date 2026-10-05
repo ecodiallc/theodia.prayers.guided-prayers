@@ -14,6 +14,7 @@ A dedicated repository of downloadable guided prayer sessions for the Theodia ap
 | `Go-Make-Disciples.prayer.zip` | General | A Great Commission prayer on Matthew 28:18-20 and Luke 15:7, encouraging courage and mission. |
 | `Pray-For-Leaders.prayer.zip` | General | A guided prayer for leaders in every sphere, grounded in 1 Timothy 2:1-2 — asking for wisdom, peace, and dignity. |
 | `Pray-For-The-Peace-Of-Jerusalem.prayer.zip` | General | A guided prayer for Jerusalem and all its people, rooted in Psalm 122:6, with prayers for shalom across traditions. |
+| `Pray-For-The-Persecuted-Church.prayer.zip` | General | A guided prayer for Christians facing persecution, grounded in Hebrews 13:3 and Matthew 5:44, with courage from Isaiah 41:10 and Romans 8:38-39. |
 
 ## Format
 
