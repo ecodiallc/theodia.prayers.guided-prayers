@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T12:50:00.000Z",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
   "packages": [
     {
       "id": "general-simple-guided-prayer",
@@ -9,9 +9,16 @@
       "name": "General Simple Guided Prayer",
       "description": "A gentle, ecumenical prayer session: pause, confess, give thanks, listen, intercede, and close with the Lord's Prayer.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["general", "daily", "beginner"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "general",
+        "daily",
+        "beginner"
+      ],
+      "version": "1.0.0",
+      "size": 1072
     },
     {
       "id": "peace-and-rest",
@@ -20,9 +27,16 @@
       "name": "Peace and Rest",
       "description": "A guided session to release anxiety, receive God's peace, and rest in stillness before sleep or a stressful moment.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["peace", "rest", "anxiety"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "peace",
+        "rest",
+        "anxiety"
+      ],
+      "version": "1.0.0",
+      "size": 1080
     },
     {
       "id": "catholic-guided-prayer",
@@ -31,9 +45,16 @@
       "name": "Catholic Guided Prayer",
       "description": "Sign of the Cross, Our Father, Hail Mary, Glory Be, brief examen, and intercession.",
       "author": "Theodia",
-      "traditions": ["Catholic"],
-      "tags": ["catholic", "daily", "devotion"],
-      "version": "1.0.0"
+      "traditions": [
+        "Catholic"
+      ],
+      "tags": [
+        "catholic",
+        "daily",
+        "devotion"
+      ],
+      "version": "1.0.0",
+      "size": 991
     },
     {
       "id": "protestant-guided-prayer",
@@ -42,9 +63,16 @@
       "name": "Protestant Guided Prayer",
       "description": "Scripture-centered session with confession, thanksgiving, listening, intercession, the Lord's Prayer, and a doxology.",
       "author": "Theodia",
-      "traditions": ["Protestant"],
-      "tags": ["protestant", "scripture", "daily"],
-      "version": "1.0.0"
+      "traditions": [
+        "Protestant"
+      ],
+      "tags": [
+        "protestant",
+        "scripture",
+        "daily"
+      ],
+      "version": "1.0.0",
+      "size": 1070
     },
     {
       "id": "orthodox-guided-prayer",
@@ -53,9 +81,16 @@
       "name": "Orthodox Guided Prayer",
       "description": "Trisagion, Jesus Prayer, stillness before icons in the heart, intercession, and blessing.",
       "author": "Theodia",
-      "traditions": ["Orthodox"],
-      "tags": ["orthodox", "stillness", "mercy"],
-      "version": "1.0.0"
+      "traditions": [
+        "Orthodox"
+      ],
+      "tags": [
+        "orthodox",
+        "stillness",
+        "mercy"
+      ],
+      "version": "1.0.0",
+      "size": 1036
     },
     {
       "id": "jewish-guided-prayer",
@@ -64,9 +99,16 @@
       "name": "Jewish Guided Prayer",
       "description": "Shema, blessings, reflection on the day, and personal supplication.",
       "author": "Theodia",
-      "traditions": ["Jewish"],
-      "tags": ["jewish", "daily", "blessing"],
-      "version": "1.0.0"
+      "traditions": [
+        "Jewish"
+      ],
+      "tags": [
+        "jewish",
+        "daily",
+        "blessing"
+      ],
+      "version": "1.0.0",
+      "size": 1015
     },
     {
       "id": "faith-in-gods-faithfulness",
@@ -75,9 +117,16 @@
       "name": "Faith in God's Faithfulness",
       "description": "A guided meditation on Habakkuk 2:4 — the just live by faith — with verses that encourage trust in God's steadfast love and faithfulness.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["faith", "habakkuk", "encouragement"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "faith",
+        "habakkuk",
+        "encouragement"
+      ],
+      "version": "1.0.0",
+      "size": 1392
     },
     {
       "id": "go-make-disciples",
@@ -86,9 +135,16 @@
       "name": "Go and Make Disciples",
       "description": "A guided prayer on Matthew 28:18-20 and Luke 15:7 — an encouraging call to the Great Commission, the joy of sharing faith, and courage to step into the world with Christ.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["mission", "great-commission", "courage"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "mission",
+        "great-commission",
+        "courage"
+      ],
+      "version": "1.0.0",
+      "size": 1520
     },
     {
       "id": "pray-for-leaders",
@@ -97,9 +153,16 @@
       "name": "Pray for Leaders",
       "description": "A guided prayer for leaders in every sphere of life, grounded in 1 Timothy 2:1-2 — asking for peace, dignity, and wisdom for those in authority.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["intercession", "leaders", "peace"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "intercession",
+        "leaders",
+        "peace"
+      ],
+      "version": "1.0.0",
+      "size": 1534
     },
     {
       "id": "pray-for-the-peace-of-jerusalem",
@@ -108,9 +171,16 @@
       "name": "Pray for the Peace of Jerusalem",
       "description": "A guided prayer for Jerusalem and all its people, rooted in Psalm 122:6 — asking for peace, security, and flourishing for the city sacred to three faiths.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["jerusalem", "peace", "intercession"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "jerusalem",
+        "peace",
+        "intercession"
+      ],
+      "version": "1.0.0",
+      "size": 1577
     },
     {
       "id": "pray-for-the-persecuted-church",
@@ -119,9 +189,16 @@
       "name": "Pray for the Persecuted Church",
       "description": "A guided prayer for Christians facing persecution around the world, grounded in Hebrews 13:3 and Matthew 5:44, with promises of courage from Isaiah 41:10 and Romans 8:38-39.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["persecuted-church", "intercession", "courage"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "persecuted-church",
+        "intercession",
+        "courage"
+      ],
+      "version": "1.0.0",
+      "size": 1733
     },
     {
       "id": "create-in-me-a-clean-heart",
@@ -130,9 +207,16 @@
       "name": "Create in Me a Clean Heart",
       "description": "A guided prayer for the removal of hidden sins and the renewal of the inner life, rooted in Psalm 51:10 — asking God to create a clean heart and a steadfast spirit.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["confession", "psalm-51", "renewal"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "confession",
+        "psalm-51",
+        "renewal"
+      ],
+      "version": "1.0.0",
+      "size": 1617
     },
     {
       "id": "love-and-forgive-our-enemies",
@@ -141,9 +225,16 @@
       "name": "Love and Forgive Our Enemies",
       "description": "A guided prayer for the hard work of loving and forgiving enemies, grounded in Matthew 5:44 — pray for those who persecute you — and the freedom that forgiveness brings.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["forgiveness", "enemies", "love"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "forgiveness",
+        "enemies",
+        "love"
+      ],
+      "version": "1.0.0",
+      "size": 1674
     },
     {
       "id": "confess-and-be-forgiven",
@@ -152,9 +243,16 @@
       "name": "Confess and Be Forgiven",
       "description": "A guided prayer of honest confession, receiving God's pardon and forgiveness, grounded in 1 John 1:9 and Psalm 32:5.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["confession", "forgiveness", "mercy"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "confession",
+        "forgiveness",
+        "mercy"
+      ],
+      "version": "1.0.0",
+      "size": 1617
     },
     {
       "id": "love-god-and-neighbor",
@@ -163,9 +261,16 @@
       "name": "Love God and Love Your Neighbor",
       "description": "A guided prayer on the two greatest commandments — love God with all your heart, soul, mind, and strength, and love your neighbor as yourself.",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["love", "greatest-commandments", "daily"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "love",
+        "greatest-commandments",
+        "daily"
+      ],
+      "version": "1.0.0",
+      "size": 1644
     }
   ]
 }
