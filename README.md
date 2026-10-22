@@ -1,7 +1,5 @@
 # Theodia Guided Prayers
 
-A dedicated repository of downloadable guided prayer sessions for the Theodia app.
-
 | ID | Name |
 | --- | ---- |
 | `general-simple-guided-prayer` | General Simple Guided Prayer |
