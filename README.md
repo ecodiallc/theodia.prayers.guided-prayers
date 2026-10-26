@@ -43,3 +43,8 @@ Guided prayer packages use the `guided` package type. Each `.prayer.zip` contain
 ## Source
 
 These sessions are authored by Theodia for ecumenical and interfaith use across Christian and Jewish prayer traditions.
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
