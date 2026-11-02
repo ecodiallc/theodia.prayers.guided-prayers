@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:20:32.389145+00:00",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
   "packages": [
     {
       "id": "general-simple-guided-prayer",
@@ -277,7 +277,7 @@
       "type": "guided",
       "path": "Hope-In-Hard-Times.prayer.zip",
       "name": "Hope in Hard Times",
-      "description": "A guided prayer of encouragement for anyone walking through difficulty, rooted in Psalm 46:1-3, Isaiah 41:10, and 2 Corinthians 1:3-4.",
+      "description": "A guided prayer of encouragement and comfort for anyone walking through difficulty, rooted in Psalm 46:1-3, Isaiah 41:10, and 2 Corinthians 1:3-4.",
       "author": "Theodia",
       "traditions": [
         "General"
