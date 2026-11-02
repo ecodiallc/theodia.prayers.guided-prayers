@@ -19,6 +19,7 @@
 | `love-god-and-neighbor` | Love God and Love Your Neighbor |
 | `hope-in-hard-times` | Hope in Hard Times |
 | `calm-in-the-storm` | Calm in the Storm |
+| `grateful-heart` | Grateful Heart |
 
 ## Sources
 
@@ -39,6 +40,7 @@
 - `love-god-and-neighbor`: A guided prayer on the two greatest commandments — love God with all your heart, soul, mind, and strength, and love your neighbor as yourself.
 - `hope-in-hard-times`: A guided prayer of encouragement and comfort for anyone walking through difficulty, rooted in Psalm 46:1-3, Isaiah 41:10, and 2 Corinthians 1:3-4.
 - `calm-in-the-storm`: A guided prayer to quiet the body and soul when stress feels overwhelming, grounded in Psalm 23, Philippians 4:6-7, and Psalm 131:2.
+- `grateful-heart`: A guided prayer to cultivate gratitude for God's daily gifts, rooted in Psalm 107:1, 1 Thessalonians 5:18, and James 1:17.
 
 ## Format
 

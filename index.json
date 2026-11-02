@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:19:43.354624+00:00",
+  "updatedAt": "2026-11-02T11:20:32.389145+00:00",
   "packages": [
     {
       "id": "general-simple-guided-prayer",
@@ -307,6 +307,24 @@
       ],
       "version": "1.0.0",
       "size": 1502
+    },
+    {
+      "id": "grateful-heart",
+      "type": "guided",
+      "path": "Grateful-Heart.prayer.zip",
+      "name": "Grateful Heart",
+      "description": "A guided prayer to cultivate gratitude for God's daily gifts, rooted in Psalm 107:1, 1 Thessalonians 5:18, and James 1:17.",
+      "author": "Theodia",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "daily",
+        "blessing",
+        "love"
+      ],
+      "version": "1.0.0",
+      "size": 1374
     }
   ]
 }
