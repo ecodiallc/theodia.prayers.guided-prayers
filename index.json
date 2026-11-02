@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:17:58.004156+00:00",
+  "updatedAt": "2026-11-02T11:19:43.354624+00:00",
   "packages": [
     {
       "id": "general-simple-guided-prayer",
@@ -289,6 +289,24 @@
       ],
       "version": "1.0.0",
       "size": 1509
+    },
+    {
+      "id": "calm-in-the-storm",
+      "type": "guided",
+      "path": "Calm-In-The-Storm.prayer.zip",
+      "name": "Calm in the Storm",
+      "description": "A guided prayer to quiet the body and soul when stress feels overwhelming, grounded in Psalm 23, Philippians 4:6-7, and Psalm 131:2.",
+      "author": "Theodia",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "peace",
+        "anxiety",
+        "stillness"
+      ],
+      "version": "1.0.0",
+      "size": 1502
     }
   ]
 }
