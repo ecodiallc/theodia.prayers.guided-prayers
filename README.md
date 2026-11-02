@@ -17,6 +17,7 @@
 | `love-and-forgive-our-enemies` | Love and Forgive Our Enemies |
 | `confess-and-be-forgiven` | Confess and Be Forgiven |
 | `love-god-and-neighbor` | Love God and Love Your Neighbor |
+| `hope-in-hard-times` | Hope in Hard Times |
 
 ## Sources
 
@@ -35,6 +36,7 @@
 - `love-and-forgive-our-enemies`: A guided prayer for the hard work of loving and forgiving enemies, grounded in Matthew 5:44 — pray for those who persecute you — and the freedom that forgiveness brings.
 - `confess-and-be-forgiven`: A guided prayer of honest confession, receiving God's pardon and forgiveness, grounded in 1 John 1:9 and Psalm 32:5.
 - `love-god-and-neighbor`: A guided prayer on the two greatest commandments — love God with all your heart, soul, mind, and strength, and love your neighbor as yourself.
+- `hope-in-hard-times`: A guided prayer of encouragement and comfort for anyone walking through difficulty, rooted in Psalm 46:1-3, Isaiah 41:10, and 2 Corinthians 1:3-4.
 
 ## Format
 
