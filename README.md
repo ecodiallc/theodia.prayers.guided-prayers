@@ -2,24 +2,24 @@
 
 | ID | Name |
 | --- | ---- |
-| `general-simple-guided-prayer` | General Simple Guided Prayer |
-| `peace-and-rest` | Peace and Rest |
+| `calm-in-the-storm` | Calm in the Storm |
 | `catholic-guided-prayer` | Catholic Guided Prayer |
-| `protestant-guided-prayer` | Protestant Guided Prayer |
-| `orthodox-guided-prayer` | Orthodox Guided Prayer |
-| `jewish-guided-prayer` | Jewish Guided Prayer |
+| `confess-and-be-forgiven` | Confess and Be Forgiven |
+| `create-in-me-a-clean-heart` | Create in Me a Clean Heart |
 | `faith-in-gods-faithfulness` | Faith in God's Faithfulness |
+| `general-simple-guided-prayer` | General Simple Guided Prayer |
 | `go-make-disciples` | Go and Make Disciples |
+| `grateful-heart` | Grateful Heart |
+| `hope-in-hard-times` | Hope in Hard Times |
+| `jewish-guided-prayer` | Jewish Guided Prayer |
+| `love-and-forgive-our-enemies` | Love and Forgive Our Enemies |
+| `love-god-and-neighbor` | Love God and Love Your Neighbor |
+| `orthodox-guided-prayer` | Orthodox Guided Prayer |
+| `peace-and-rest` | Peace and Rest |
 | `pray-for-leaders` | Pray for Leaders |
 | `pray-for-the-peace-of-jerusalem` | Pray for the Peace of Jerusalem |
 | `pray-for-the-persecuted-church` | Pray for the Persecuted Church |
-| `create-in-me-a-clean-heart` | Create in Me a Clean Heart |
-| `love-and-forgive-our-enemies` | Love and Forgive Our Enemies |
-| `confess-and-be-forgiven` | Confess and Be Forgiven |
-| `love-god-and-neighbor` | Love God and Love Your Neighbor |
-| `hope-in-hard-times` | Hope in Hard Times |
-| `calm-in-the-storm` | Calm in the Storm |
-| `grateful-heart` | Grateful Heart |
+| `protestant-guided-prayer` | Protestant Guided Prayer |
 
 ## Sources
 
