@@ -2,6 +2,7 @@
 
 | ID | Name |
 | --- | ---- |
+| `be-strong-and-courageous` | Be Strong and Courageous |
 | `calm-in-the-storm` | Calm in the Storm |
 | `catholic-guided-prayer` | Catholic Guided Prayer |
 | `confess-and-be-forgiven` | Confess and Be Forgiven |
@@ -25,6 +26,7 @@
 
 ## Sources
 
+- `be-strong-and-courageous`: A guided prayer for courage, strength, and boldness for the work and responsibilities ahead, grounded in God's power and love.
 - `calm-in-the-storm`: A guided prayer to quiet the body and soul when stress feels overwhelming, grounded in Psalm 23, Philippians 4:6-7, and Psalm 131:2.
 - `catholic-guided-prayer`: Sign of the Cross, Our Father, Hail Mary, Glory Be, brief examen, and intercession.
 - `confess-and-be-forgiven`: A guided prayer of honest confession, receiving God's pardon and forgiveness, grounded in 1 John 1:9 and Psalm 32:5.

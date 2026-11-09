@@ -361,6 +361,24 @@
       ],
       "version": "1.0.0",
       "size": 1596
+    },
+    {
+      "id": "be-strong-and-courageous",
+      "type": "guided",
+      "path": "Be-Strong-And-Courageous.prayer.zip",
+      "name": "Be Strong and Courageous",
+      "description": "A guided prayer for courage, strength, and boldness for the work and responsibilities ahead, grounded in God's power and love.",
+      "author": "Theodia",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "courage",
+        "faith",
+        "daily"
+      ],
+      "version": "1.0.0",
+      "size": 1556
     }
   ]
 }
