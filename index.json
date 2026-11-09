@@ -379,6 +379,24 @@
       ],
       "version": "1.0.0",
       "size": 1556
+    },
+    {
+      "id": "wisdom-for-big-decisions",
+      "type": "guided",
+      "path": "Wisdom-For-Big-Decisions.prayer.zip",
+      "name": "Wisdom for Big Decisions",
+      "description": "A guided prayer for wisdom and clarity when facing a significant decision, trusting God to direct your path.",
+      "author": "Theodia",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "faith",
+        "daily",
+        "courage"
+      ],
+      "version": "1.0.0",
+      "size": 1426
     }
   ]
 }

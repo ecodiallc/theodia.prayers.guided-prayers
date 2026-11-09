@@ -23,6 +23,7 @@
 | `pray-for-the-persecuted-church` | Pray for the Persecuted Church |
 | `protestant-guided-prayer` | Protestant Guided Prayer |
 | `rest-for-the-night` | Rest for the Night |
+| `wisdom-for-big-decisions` | Wisdom for Big Decisions |
 
 ## Sources
 
@@ -47,6 +48,7 @@
 - `pray-for-the-persecuted-church`: A guided prayer for Christians facing persecution around the world, grounded in Hebrews 13:3 and Matthew 5:44, with promises of courage from Isaiah 41:10 and Romans 8:38-39.
 - `protestant-guided-prayer`: Scripture-centered session with confession, thanksgiving, listening, intercession, the Lord's Prayer, and a doxology.
 - `rest-for-the-night`: A guided evening prayer of gratitude for the day's blessings and trials, releasing burdens to God, and receiving peace and restful sleep.
+- `wisdom-for-big-decisions`: A guided prayer for wisdom and clarity when facing a significant decision, trusting God to direct your path.
 
 ## Format
 
