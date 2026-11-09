@@ -14,12 +14,14 @@
 | `jewish-guided-prayer` | Jewish Guided Prayer |
 | `love-and-forgive-our-enemies` | Love and Forgive Our Enemies |
 | `love-god-and-neighbor` | Love God and Love Your Neighbor |
+| `morning-light` | Morning Light |
 | `orthodox-guided-prayer` | Orthodox Guided Prayer |
 | `peace-and-rest` | Peace and Rest |
 | `pray-for-leaders` | Pray for Leaders |
 | `pray-for-the-peace-of-jerusalem` | Pray for the Peace of Jerusalem |
 | `pray-for-the-persecuted-church` | Pray for the Persecuted Church |
 | `protestant-guided-prayer` | Protestant Guided Prayer |
+| `rest-for-the-night` | Rest for the Night |
 
 ## Sources
 
@@ -35,12 +37,14 @@
 - `jewish-guided-prayer`: Shema, blessings, reflection on the day, and personal supplication.
 - `love-and-forgive-our-enemies`: A guided prayer for the hard work of loving and forgiving enemies, grounded in Matthew 5:44 — pray for those who persecute you — and the freedom that forgiveness brings.
 - `love-god-and-neighbor`: A guided prayer on the two greatest commandments — love God with all your heart, soul, mind, and strength, and love your neighbor as yourself.
+- `morning-light`: A guided morning prayer of waking in God's presence, receiving new mercies, offering the day, and stepping out with peace and purpose.
 - `orthodox-guided-prayer`: Trisagion, Jesus Prayer, stillness before icons in the heart, intercession, and blessing.
 - `peace-and-rest`: A guided session to release anxiety, receive God's peace, and rest in stillness before sleep or a stressful moment.
 - `pray-for-leaders`: A guided prayer for leaders in every sphere of life, grounded in 1 Timothy 2:1-2 — asking for peace, dignity, and wisdom for those in authority.
 - `pray-for-the-peace-of-jerusalem`: A guided prayer for Jerusalem and all its people, rooted in Psalm 122:6 — asking for peace, security, and flourishing for the city sacred to three faiths.
 - `pray-for-the-persecuted-church`: A guided prayer for Christians facing persecution around the world, grounded in Hebrews 13:3 and Matthew 5:44, with promises of courage from Isaiah 41:10 and Romans 8:38-39.
 - `protestant-guided-prayer`: Scripture-centered session with confession, thanksgiving, listening, intercession, the Lord's Prayer, and a doxology.
+- `rest-for-the-night`: A guided evening prayer of gratitude for the day's blessings and trials, releasing burdens to God, and receiving peace and restful sleep.
 
 ## Format
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "updatedAt": "2026-11-09T00:00:00.000Z",
   "packages": [
     {
       "id": "general-simple-guided-prayer",
@@ -115,7 +115,7 @@
       "type": "guided",
       "path": "Faith-In-Gods-Faithfulness.prayer.zip",
       "name": "Faith in God's Faithfulness",
-      "description": "A guided meditation on Habakkuk 2:4 — the just live by faith — with verses that encourage trust in God's steadfast love and faithfulness.",
+      "description": "A guided meditation on Habakkuk 2:4 \u2014 the just live by faith \u2014 with verses that encourage trust in God's steadfast love and faithfulness.",
       "author": "Theodia",
       "traditions": [
         "General"
@@ -133,7 +133,7 @@
       "type": "guided",
       "path": "Go-Make-Disciples.prayer.zip",
       "name": "Go and Make Disciples",
-      "description": "A guided prayer on Matthew 28:18-20 and Luke 15:7 — an encouraging call to the Great Commission, the joy of sharing faith, and courage to step into the world with Christ.",
+      "description": "A guided prayer on Matthew 28:18-20 and Luke 15:7 \u2014 an encouraging call to the Great Commission, the joy of sharing faith, and courage to step into the world with Christ.",
       "author": "Theodia",
       "traditions": [
         "General"
@@ -151,7 +151,7 @@
       "type": "guided",
       "path": "Pray-For-Leaders.prayer.zip",
       "name": "Pray for Leaders",
-      "description": "A guided prayer for leaders in every sphere of life, grounded in 1 Timothy 2:1-2 — asking for peace, dignity, and wisdom for those in authority.",
+      "description": "A guided prayer for leaders in every sphere of life, grounded in 1 Timothy 2:1-2 \u2014 asking for peace, dignity, and wisdom for those in authority.",
       "author": "Theodia",
       "traditions": [
         "General"
@@ -169,7 +169,7 @@
       "type": "guided",
       "path": "Pray-For-The-Peace-Of-Jerusalem.prayer.zip",
       "name": "Pray for the Peace of Jerusalem",
-      "description": "A guided prayer for Jerusalem and all its people, rooted in Psalm 122:6 — asking for peace, security, and flourishing for the city sacred to three faiths.",
+      "description": "A guided prayer for Jerusalem and all its people, rooted in Psalm 122:6 \u2014 asking for peace, security, and flourishing for the city sacred to three faiths.",
       "author": "Theodia",
       "traditions": [
         "General"
@@ -205,7 +205,7 @@
       "type": "guided",
       "path": "Create-In-Me-A-Clean-Heart.prayer.zip",
       "name": "Create in Me a Clean Heart",
-      "description": "A guided prayer for the removal of hidden sins and the renewal of the inner life, rooted in Psalm 51:10 — asking God to create a clean heart and a steadfast spirit.",
+      "description": "A guided prayer for the removal of hidden sins and the renewal of the inner life, rooted in Psalm 51:10 \u2014 asking God to create a clean heart and a steadfast spirit.",
       "author": "Theodia",
       "traditions": [
         "General"
@@ -223,7 +223,7 @@
       "type": "guided",
       "path": "Love-And-Forgive-Our-Enemies.prayer.zip",
       "name": "Love and Forgive Our Enemies",
-      "description": "A guided prayer for the hard work of loving and forgiving enemies, grounded in Matthew 5:44 — pray for those who persecute you — and the freedom that forgiveness brings.",
+      "description": "A guided prayer for the hard work of loving and forgiving enemies, grounded in Matthew 5:44 \u2014 pray for those who persecute you \u2014 and the freedom that forgiveness brings.",
       "author": "Theodia",
       "traditions": [
         "General"
@@ -259,7 +259,7 @@
       "type": "guided",
       "path": "Love-God-And-Neighbor.prayer.zip",
       "name": "Love God and Love Your Neighbor",
-      "description": "A guided prayer on the two greatest commandments — love God with all your heart, soul, mind, and strength, and love your neighbor as yourself.",
+      "description": "A guided prayer on the two greatest commandments \u2014 love God with all your heart, soul, mind, and strength, and love your neighbor as yourself.",
       "author": "Theodia",
       "traditions": [
         "General"
@@ -325,6 +325,42 @@
       ],
       "version": "1.0.0",
       "size": 1374
+    },
+    {
+      "id": "rest-for-the-night",
+      "type": "guided",
+      "path": "Rest-For-The-Night.prayer.zip",
+      "name": "Rest for the Night",
+      "description": "A guided evening prayer of gratitude for the day's blessings and trials, releasing burdens to God, and receiving peace and restful sleep.",
+      "author": "Theodia",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "peace",
+        "rest",
+        "stillness"
+      ],
+      "version": "1.0.0",
+      "size": 1767
+    },
+    {
+      "id": "morning-light",
+      "type": "guided",
+      "path": "Morning-Light.prayer.zip",
+      "name": "Morning Light",
+      "description": "A guided morning prayer of waking in God's presence, receiving new mercies, offering the day, and stepping out with peace and purpose.",
+      "author": "Theodia",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "daily",
+        "devotion",
+        "blessing"
+      ],
+      "version": "1.0.0",
+      "size": 1596
     }
   ]
 }
